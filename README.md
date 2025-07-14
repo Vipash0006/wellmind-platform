@@ -196,7 +196,7 @@ MongoDB >= 6.0 (Local or Atlas)
 
 ```bash
 # 1️⃣ Clone the repository
-git clone https://github.com/yourusername/wellmind.git
+git clone https://github.com/Vipash0006/wellmind-platform.git
 cd wellmind
 
 # 2️⃣ Install dependencies for all modules
